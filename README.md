@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DAV1NC11
+- 👀 I’m interested in AI, Machine Learning, IoT and networking.
+- 🌱 I’m currently learning IoT
+- 💞️ I’m looking to collaborate on an IoT project with AI
